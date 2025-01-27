@@ -1,5 +1,4 @@
 
-```markdown
 # Instaloader - Instagram Data Downloader
 
 Instaloader adalah sebuah library Python yang memungkinkan Anda untuk mengunduh data dari Instagram, termasuk postingan, cerita, profil, dan banyak lagi. Library ini mudah digunakan dan tidak memerlukan API resmi dari Instagram.
