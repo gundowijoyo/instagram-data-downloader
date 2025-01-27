@@ -148,7 +148,6 @@ loader.login("username", "password")  # Login langsung dengan username dan passw
 ---
 
 Dengan Instaloader, Anda dapat mengunduh dan mengakses berbagai data dari Instagram secara efisien menggunakan Python.
-```
 
 ### Penjelasan Struktur Dokumentasi:
 - **Instalasi**: Menyediakan petunjuk untuk menginstal Instaloader menggunakan `pip`.
